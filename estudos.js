@@ -7,7 +7,7 @@ console.log(arrTest[4]);
 arrTest.shift();
 console.log(arrTest);
 */
-
+//
 let arr = [1, 3, 4, 6, 7, 9, 10];
 
 for(let i = 0; i < 7; i++){
